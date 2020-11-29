@@ -2,6 +2,7 @@ import React from "react";
 import { createServer } from "miragejs";
 import { useQuery } from "react-query";
 import axios from "axios";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 
 createServer({
   routes() {
@@ -34,11 +35,17 @@ function App() {
   }
 
   return (
-    <ul>
-      {data.map((user) => (
-        <li key={user.id}>{user.name}</li>
-      ))}
-    </ul>
+    <Router>
+      <Switch>
+        <Route path="/">
+          <ul>
+            {data.map((user) => (
+              <li key={user.id}>{user.name}</li>
+            ))}
+          </ul>
+        </Route>
+      </Switch>
+    </Router>
   );
 }
 
