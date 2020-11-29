@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-miragejs/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/test-miragejs/static/js/main.a8ce54fa.chunk.js",
+    "main.js.map": "/test-miragejs/static/js/main.a8ce54fa.chunk.js.map",
+    "runtime-main.js": "/test-miragejs/static/js/runtime-main.4a76bf42.js",
+    "runtime-main.js.map": "/test-miragejs/static/js/runtime-main.4a76bf42.js.map",
+    "static/js/2.365c4717.chunk.js": "/test-miragejs/static/js/2.365c4717.chunk.js",
+    "static/js/2.365c4717.chunk.js.map": "/test-miragejs/static/js/2.365c4717.chunk.js.map",
+    "static/js/3.b0c62fb3.chunk.js": "/test-miragejs/static/js/3.b0c62fb3.chunk.js",
+    "static/js/3.b0c62fb3.chunk.js.map": "/test-miragejs/static/js/3.b0c62fb3.chunk.js.map",
+    "index.html": "/test-miragejs/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/test-miragejs/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.365c4717.chunk.js.LICENSE.txt": "/test-miragejs/static/js/2.365c4717.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a76bf42.js",
+    "static/js/2.365c4717.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a8ce54fa.chunk.js"
+  ]
+}
